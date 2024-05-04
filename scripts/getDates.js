@@ -6,4 +6,4 @@ year.textContent = new Date().getFullYear();
 
 // Get last modified date of the document
 document.getElementById("last-modified").textContent =
-  "Last modified: " + document.lastModified;
+  "Last modified : " + document.lastModified;
